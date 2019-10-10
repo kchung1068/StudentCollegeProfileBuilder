@@ -14,6 +14,7 @@
 		078218A323467C3A00C096FD /* StudentCollegeProfileBuilder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 078218A123467C3A00C096FD /* StudentCollegeProfileBuilder.xcdatamodeld */; };
 		078218A523467C3C00C096FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 078218A423467C3C00C096FD /* Assets.xcassets */; };
 		078218A823467C3C00C096FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078218A623467C3C00C096FD /* LaunchScreen.storyboard */; };
+		07947B872347C34B008133D1 /* CollegeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07947B862347C34B008133D1 /* CollegeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		078218A423467C3C00C096FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		078218A723467C3C00C096FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		078218A923467C3C00C096FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07947B862347C34B008133D1 /* CollegeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollegeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0782189A23467C3A00C096FD /* SceneDelegate.swift */,
 				0782189C23467C3A00C096FD /* ViewController.swift */,
 				0782189E23467C3A00C096FD /* Main.storyboard */,
+				07947B862347C34B008133D1 /* CollegeViewController.swift */,
 				078218A423467C3C00C096FD /* Assets.xcassets */,
 				078218A623467C3C00C096FD /* LaunchScreen.storyboard */,
 				078218A923467C3C00C096FD /* Info.plist */,
@@ -144,6 +147,7 @@
 				0782189D23467C3A00C096FD /* ViewController.swift in Sources */,
 				0782189923467C3A00C096FD /* AppDelegate.swift in Sources */,
 				0782189B23467C3A00C096FD /* SceneDelegate.swift in Sources */,
+				07947B872347C34B008133D1 /* CollegeViewController.swift in Sources */,
 				078218A323467C3A00C096FD /* StudentCollegeProfileBuilder.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
